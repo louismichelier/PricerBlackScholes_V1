@@ -11,4 +11,4 @@ Delta (Hedging) : 0.6368
 Strategie : Achetez 0.6368 actions pour couvrir 1 Call.
 ========================================
 
-Prochaines étapes : rajt API Binance, calcul des 5 grecs 
+Prochaines étapes : brancher une API (Binance), calcul des 5 grecs, ajout d'une interface graphique (sûrement en Python type streamlit)
